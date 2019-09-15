@@ -11,4 +11,4 @@ birthday_dictionary = {
 
 user = ' '
 print ('>>> Welcome to the birthday dictionary. We know the birthdays of: \nCarter \nSimon \nCameron \nGabi \nJay \nSebastian \nKate')
-user = input("Who's birthday would you like to know?") 
+user = input("Who's birthday would you like to know?")
